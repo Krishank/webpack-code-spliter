@@ -1,0 +1,34 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "main.js": 0,
+      "node_modules/lodash/lodash.js": 1,
+      "node_modules/webpack/buildin/global.js": 2,
+      "node_modules/webpack/buildin/module.js": 3
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3
+    }
+  },
+  "chunks": {
+    "byName": {},
+    "bySource": {},
+    "usedIds": [
+      0,
+      1
+    ]
+  },
+  "aggressiveSplits": [
+    {
+      "modules": [
+        "node_modules/lodash/lodash.js"
+      ],
+      "size": 539855,
+      "hash": "cb57503b4ec8d0bd672d8da6b3887f6d",
+      "id": 1
+    }
+  ]
+}
